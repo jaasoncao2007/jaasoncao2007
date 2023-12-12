@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jaasoncao2007
-- 👀 I’m interested in cycling, snowboarding, football, and baskteball.
-- 🌱 I’m currently learning python and calculus.
-- 💞️ I’m looking to collaborate on how to deal with my coding. More importantly, my ib exams.
-- 📫 How to reach me: jaasoncao2007@gmail.com
+Hi, I’m @jaasoncao2007
+I’m interested in cycling, snowboarding, football, and baskteball.
+a fan of golden state warriors
+shph 26'
 
 <!---
 jaasoncao2007/jaasoncao2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
